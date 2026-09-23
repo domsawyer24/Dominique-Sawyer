@@ -1,5 +1,5 @@
 <h1>Hi, I'm Dominique! <br/><a href="https://github.com/domsawyer24"><a href="http://www.linkedin.com/in/dominique-sawyer-455958197"> Future Cybersecurity Professional</a>
-<h2>BIO: I am currently a CDL A truck driver preparing to transition into a Tech career. </h2>
+<h2>BIO:</h2> <b>I am a CDL A truck driver working towards transitioning into Tech as Cybersecurity specialist. I am taking the CompTia Security+ Exam in November to gain the security+ certification to strengthen my resume for a professional role. I am preparing for the exam by studying the coursework that I learned in the Cybersecurity program from Johns Hopkins University,   </b> 
 
 <h2> Cybersecurity Projects:</h2>
 
